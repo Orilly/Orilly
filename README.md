@@ -7,8 +7,9 @@ It's available on YouTube and Notion.
 
 ## ⚽ Languages & Skills
 
-![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white&color=ED4245)
-![](https://img.shields.io/badge/Visual_Studio_Code-000000.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white&color=ED4245)
+![](https://img.shields.io/badge/VSCode-000000.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/Creative_Cloud-000000.svg?style=for-the-badge&logo=adobecreativecloud&logoColor=white&color=47A248)
 
 
 ![](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white&color=ED4245)
