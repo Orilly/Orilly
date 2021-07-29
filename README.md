@@ -21,3 +21,5 @@ I enjoy working on a variety of projects at a time, but my personal favourite is
 ![](https://img.shields.io/badge/Csharp-239120.svg?style=for-the-badge&logo=csharp&logoColor=white&color=47A248)
 
 ## 📊 Stats
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=orilly&theme=dark)](https://github.com/orilly/github-readme-stats)
