@@ -1,6 +1,6 @@
 ## 📚 About Me
 
-Heyo! I'm Bruno Collingridge, a 16 y/o student (and developer, kind of) from the UK.
+Heyo! I'm Bruno Collingridge, an 18 y/o student (and developer, kind of) from the UK.
 Although Java is my preferred language, I am also familiar with Kotlin, C#, and SQL. 
 I enjoy working on a variety of projects at a time, but my personal favourite is the tutorial I'm creating for those who wish to learn Discord bot development. 
 
